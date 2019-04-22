@@ -1,0 +1,34 @@
+{
+  "name": "steamai",
+  "version": "0.0.1",
+  "description": "A Steam chatbot that responds to incoming messages with the help of Google dia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nycrera/steamai.git"
+  },
+  "keywords": [
+    "steam",
+    "ai",
+    "dialogflow",
+    "google-dialogflow",
+    "chatbot",
+    "language",
+    "nlp"
+  ],
+  "author": "Nycrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nycrera/steamai/issues"
+  },
+  "homepage": "https://github.com/Nycrera/steamai#readme",
+  "dependencies": {
+    "dialogflow": "^0.8.2",
+    "steam": "^1.4.1",
+    "steam-totp": "^2.1.0",
+    "uuid": "^3.3.2"
+  }
+}

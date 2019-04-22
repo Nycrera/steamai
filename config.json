@@ -1,0 +1,7 @@
+{
+    "accountName": "steamname",
+    "password": "steampassword",
+    "totp": true,
+    "privateKey": "privatekeyfortotp",
+    "dialogFlow_projectId" : "steam-3000b"
+}
